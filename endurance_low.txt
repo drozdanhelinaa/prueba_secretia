@@ -7,4 +7,4 @@ El traspaso de llamadas nova
 if (cliente.pideAcento(gallego))
    lauchAcento(gallego)
 
-Davidka
+// muchos cambios a probar
