@@ -1,1 +1,11 @@
 Hola soy ${nombre_persona} y trabajo para ${nombre_empresa}
+El contenido con la endurance low.
+
+08:00 - 12:00
+
+El traspaso de llamadas nova
+
+if (cliente.pideAcento(gallego))
+   lauchAcento(gallego)
+
+Anhelinka
