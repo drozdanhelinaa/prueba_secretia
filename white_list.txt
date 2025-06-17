@@ -1,1 +1,3 @@
-White list
+White list algo
+
+Black list 
